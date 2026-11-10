@@ -12,7 +12,7 @@ Ich entwickle am liebsten Backend-Software und verteilte Systeme und beschäftig
 ### Ausgewählte Projekte
 - 🔐 **[chatbot-sicherheitstester](https://github.com/KingChaabo/chatbot-sicherheitstester)**: automatischer Sicherheitstest für deutschsprachige Chatbots nach OWASP Top 10 für LLM-Anwendungen
 - 📨 **[message-broker](https://github.com/KingChaabo/message-broker)**: Publish/Subscribe-Broker mit Java 21, Spring Boot und gRPC
-- 🎮 **[Webanwendung für ein fiktives Spiel](**: Full-Stack-Projekt mit Frontend, Backend und Datenbank
+- 🎮 **[Webanwendung für ein fiktives Spiel](https://github.com/erlogit/Internet-Technologien)**: Full-Stack-Projekt mit Frontend, Backend und Datenbank
 - 🧠 **Bachelorarbeit**: lokale Sprachmodelle auf Android für BCI-Anwendungen
 
 ### Erfahrung
